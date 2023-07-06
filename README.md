@@ -1,16 +1,13 @@
-### Hi there 👋
+### Lucas BODIN (luckykamon) 👋
 
-<!--
-**luckykamon/luckykamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lucas Bodin and I learn the work of developper since 2016. It's also been my job since January 2021.
 
-Here are some ideas to get you started:
+This repository are my personnal projets and some of my school projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the private project `defiQrCode` where I will put a public release soon.
+- 🕵️ You can find the project `defiQrCode` at this url [http://courir-a-plusieurs.site](http://courir-a-plusieurs.site)
+- 🔗 You can find the project `generateQrCode` at this url [https://generateqrcode.lucasbodin.com](https://generateqrcode.lucasbodin.com)
+- 🧑‍💻 You can find the project `lucas_bodin_vitrine` at this url [lucasbodin.com](lucasbodin.com)
+- 📫 How to reach me: lucas.bodin.contacter@gmail.com
+
+Do not hesitate to contact me if you wish to collaborate with me.
